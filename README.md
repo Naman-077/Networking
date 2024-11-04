@@ -1,5 +1,4 @@
 # Networking
-# Networking
 Networking is the process of making connections and building relationships. These connections can provide you with advice and contacts, which can help you make informed career decisions. Networking can even help you ﬁnd unadvertised jobs/internships. 
 ## Bridge
 A Linux bridge behaves like a network switch. It forwards packets between interfaces that are connected to it. It's usually used for forwarding packets on routers, on gateways, or between VMs and network namespaces on a host. It also supports STP, VLAN filter, and multicast snooping.![image](https://github.com/user-attachments/assets/68cc735f-9b76-4a91-b55a-495c74b0a1b3)
